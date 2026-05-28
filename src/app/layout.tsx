@@ -10,6 +10,9 @@ export const metadata: Metadata = {
   description: 'India\'s smartest exam prep platform. Unlimited AI-generated questions for UPSC, NEET, JEE, NDA, SSC. Personal AI teacher, mock tests, battle mode. Free forever.',
   keywords: 'UPSC preparation, NEET preparation, JEE preparation, NDA preparation, SSC preparation, AI exam prep, mock test, free exam preparation India, online study',
   authors: [{ name: 'EDUHUB' }],
+  verification: {
+    google: '1-C2uhZKXrvYJWG8Sf5rq3JHnp0hLvZhrv6a5fmzMPU',
+  },
   openGraph: {
     title: 'EDUHUB - AI Powered Exam Preparation',
     description: 'Unlimited AI questions for UPSC, NEET, JEE, NDA, SSC. Free forever.',
